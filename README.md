@@ -1,2 +1,2 @@
-laavel ile geliştirdiğim ilk projem
+laravel ile geliştirdiğim ilk projem
 
